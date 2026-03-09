@@ -1,41 +1,43 @@
-# Norsk nynorsk (nn-NO) for Joomla 6
+# Norwegian Nynorsk (nn-NO) Language Pack for Joomla 6
 
-Fullstendig nynorsk språkpakke for Joomla 6. Omsett frå den offisielle norske bokmålspakken (`nb-NO`) til nynorsk med [Claude Code](https://claude.ai/claude-code).
+Norsk nynorsk språkpakke for Joomla 6. Complete Nynorsk translation for Joomla 6, translated from the official Norwegian Bokmål (`nb-NO`) language pack using [Claude Code](https://claude.ai/claude-code).
 
-## Installering
+> **Keywords:** Norwegian, Nynorsk, Norsk, nn-NO, Joomla 6, language pack, språkpakke, translation, omsetjing
 
-1. Last ned [`nn-NO_joomla_lang_full_6.0.2.zip`](https://github.com/whynotindeed/joomla-nynorsk/releases/latest)
-2. Logg inn i Joomla-administratoren
-3. Gå til **System → Install → Extensions**
-4. Last opp ZIP-fila
-5. Gå til **System → Manage → Languages** og sett `Norwegian Nynorsk (nn-NO)` som standard
+## Installation / Installering
 
-## Kva er inkludert
+1. Download [`nn-NO_joomla_lang_full_6.0.2.zip`](https://github.com/whynotindeed/joomla-nynorsk/releases/latest)
+2. Log in to Joomla Administrator
+3. Go to **System → Install → Extensions**
+4. Upload the ZIP file
+5. Go to **System → Manage → Languages** and set `Norwegian Nynorsk (nn-NO)` as default
 
-- 530 omsette `.ini`-filer
-- Frontendstrenger (nettstad)
-- Backendstrenger (administrator)
-- API-strenger
-- Alle kjerne-komponentar, modular, programtillegg og malar
+## What's included / Kva er inkludert
 
-## Om omsetjinga
+- 530 translated `.ini` files
+- Frontend strings (site)
+- Backend strings (administrator)
+- API strings
+- All core components, modules, plugins, and templates
 
-Denne språkpakken er omsett frå den offisielle Joomla 6 bokmålspakken (`nb-NO` v6.0.2.1) til nynorsk. Omsetjinga er gjord av **Claude Code** (Anthropic) og kvalitetssikra manuelt.
+## About the translation / Om omsetjinga
 
-Nynorsk skil seg frå bokmål på fleire måtar:
-- Infinitiv endar oftast på **-a** (lagra, endra, sletta)
+This language pack is translated from the official Joomla 6 Norwegian Bokmål pack (`nb-NO` v6.0.2.1) to Nynorsk. The translation was done by **Claude Code** (Anthropic).
+
+Nynorsk differs from Bokmål in several ways:
+- Infinitives typically end in **-a** (lagra, endra, sletta)
 - "ikke" → **ikkje**, "bruker" → **brukar**, "innhold" → **innhald**
-- Ending **-lig** → **-leg**, **-het** → **-heit**, **-else** → **-ing**
+- Endings **-lig** → **-leg**, **-het** → **-heit**, **-else** → **-ing**
 - "hva" → **kva**, "hvor" → **kvar**, "hvordan" → **korleis**
 
-## Bidra
+## Contributing / Bidra
 
-Fann du ein omsetjingsfeil? Opna ein [issue](https://github.com/whynotindeed/joomla-nynorsk/issues) eller send ein pull request.
+Found a translation error? Open an [issue](https://github.com/whynotindeed/joomla-nynorsk/issues) or submit a pull request.
 
-## Lisens
+## License / Lisens
 
-Same lisens som Joomla — GNU General Public License v2 eller seinare.
+Same license as Joomla — GNU General Public License v2 or later.
 
 ---
 
-Laga av [The AI Director](https://theaidirector.win) med Claude Code.
+Made by [The AI Director](https://theaidirector.win) with Claude Code.
