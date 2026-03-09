@@ -22,7 +22,7 @@ Norsk nynorsk språkpakke for Joomla 6. Complete Nynorsk translation for Joomla 
 
 ## About the translation / Om omsetjinga
 
-This language pack is translated from the official Joomla 6 Norwegian Bokmål pack (`nb-NO` v6.0.2.1) to Nynorsk. The translation was done by **Claude Code** (Anthropic).
+This language pack is translated from the official Joomla 6 Norwegian Bokmål pack (`nb-NO` v6.0.2.1) to Nynorsk. The translation was done entirely by **Claude Code** (Anthropic) and has not been manually reviewed. It should be usable as-is, but there may be errors or awkward phrasing in places.
 
 Nynorsk differs from Bokmål in several ways:
 - Infinitives typically end in **-a** (lagra, endra, sletta)
@@ -32,7 +32,7 @@ Nynorsk differs from Bokmål in several ways:
 
 ## Contributing / Bidra
 
-Found a translation error? Open an [issue](https://github.com/whynotindeed/joomla-nynorsk/issues) or submit a pull request.
+Found a translation error or awkward phrasing? Contributions are welcome — open an [issue](https://github.com/whynotindeed/joomla-nynorsk/issues) or submit a pull request. Native Nynorsk speakers who want to help improve the quality are especially appreciated.
 
 ## License / Lisens
 
