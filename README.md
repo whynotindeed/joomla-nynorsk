@@ -29,7 +29,7 @@ Komplett nynorsk omsetjing for Joomla 6, basert på den offisielle bokmålspakke
 
 ## Om omsetjinga
 
-Denne språkpakken er omsett frå den offisielle Joomla 6 bokmålspakken (`nb-NO` v6.0.2.1) til nynorsk. Omsetjinga er gjord av **Claude Code** (Anthropic) og er ikkje manuelt gjennomgått. Pakken bør fungera fint slik ho er, men det kan finnast feil eller unatural formulering ein del stader.
+Denne språkpakken er omsett frå den offisielle Joomla 6 bokmålspakken (`nb-NO` v6.0.2.1) til nynorsk. Omsetjinga er gjort av **Claude Code** (Anthropic) og er ikkje manuelt gjennomgått. Pakken bør fungera fint slik ho er, men det kan finnast feil eller unatural formulering ein del stader.
 
 Nynorsk skil seg frå bokmål på fleire måtar:
 - Infinitiv endar oftast på **-a** (lagra, endra, sletta)
